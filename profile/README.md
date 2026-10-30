@@ -65,9 +65,9 @@ We connect WhatsApp, spreadsheets, documents, schedules, and operating rules to 
 
 | Area | Technologies |
 | :-- | :-- |
-| **Backend** | ![Python][python] ![Django][django] ![FastAPI][fastapi] ![Node.js][node] ![TypeScript][ts] ![Go][go] |
+| **Backend** | ![Python][python] ![Django][django] ![FastAPI][fastapi] ![Node.js][node] ![Go][go] |
 | **Database** | ![PostgreSQL][postgres] ![Redis][redis] |
-| **Frontend** | ![React][react] ![Next.js][next] ![Tailwind CSS][tailwind] |
+| **Frontend** | ![TypeScript][ts] ![React][react] ![Next.js][next] ![Tailwind CSS][tailwind] |
 | **Mobile** | ![React Native][react-native] |
 | **Desktop** | ![Tauri][tauri] |
 | **AI** | ![OpenAI][openai] ![Claude][claude] |
