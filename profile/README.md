@@ -33,27 +33,18 @@ We connect WhatsApp, spreadsheets, documents, schedules, and operating rules to 
 | :-- | :-- | :-- | :-- |
 | We dive into the context, listen to the people living the routine, and map what matters. | We define what creates the greatest impact, using data and the team's experience. | We develop robust, integrated solutions designed for real use. | We follow results, adjust, and expand as the business grows. |
 
-## Selected work
-
-| Client | What we built | Result |
-| :-- | :-- | :-- |
-| **Castro Advocacia** <br><sub>Law practice</sub> | An integrated legal organizer mapping clients, cases, deadlines, finances, and documents. | One centralized environment, with automations that cut manual work and give the team more control. |
-| **Dr. Exercício** <br><sub>Fitness franchise network</sub> | A franchise management system plus a workout app for students and staff. | Standardized operations across units and a connected student journey. |
-| **D&A Naturais** <br><sub>Document-heavy operation</sub> | A platform that generates contracts, reports, proposals, and forms from templates and personalization rules. | Fewer inconsistencies, less rework, and hours saved on manual document assembly. |
-| **Busca Terra** <br><sub>Front-end outsourcing</sub> | On-demand front-end development with shared interface, responsiveness, and API integration standards. | Modern, scalable interfaces delivered faster, with consistent visual and technical quality. |
-
 ## Products
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 Petscription</h3>
+      <h3><img src="assets/petscription-mark.svg" width="28" height="28" alt="" align="top">&nbsp; Petscription</h3>
       <p><b>Connected pet care.</b> Medications, schedules, and pet information organized to make daily care easier for pet owners.</p>
       <p><sub>Mobile &amp; web · In development</sub></p>
       <p><a href="https://mergenst.com.br/en/petscription">Visit the website →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💌 Qonvite</h3>
+      <h3><img src="assets/qonvite-mark.svg" width="28" height="28" alt="" align="top">&nbsp; Qonvite</h3>
       <p><b>Guest management for private events.</b> Personalized invitations, RSVP, guest organization, and QR code check-in in one workflow.</p>
       <p><sub>In development</sub></p>
       <p><a href="https://mergenst.com.br/en">Learn more →</a></p>
@@ -103,19 +94,10 @@ A Mergen conecta WhatsApp, planilhas, documentos, agendas e regras operacionais 
 | :-- | :-- | :-- | :-- |
 | Mergulhamos no contexto, ouvimos quem vive a rotina e mapeamos o que importa. | Definimos o que gera mais impacto com base em dados e na experiência do time. | Desenvolvemos soluções robustas, integradas e pensadas para uso real. | Acompanhamos resultados, ajustamos e expandimos conforme o negócio cresce. |
 
-### Projetos
-
-| Cliente | O que construímos | Resultado |
-| :-- | :-- | :-- |
-| **Castro Advocacia** <br><sub>Escritório de advocacia</sub> | Um organizador jurídico integrado com clientes, processos, prazos, financeiro e documentos. | Um ambiente único, com automações que reduzem tarefas manuais e dão mais controle à equipe. |
-| **Dr. Exercício** <br><sub>Rede de franquias fitness</sub> | Sistema de gestão da franquia e aplicativo de treinos para alunos e equipe. | Operação padronizada entre as unidades e jornada do aluno conectada. |
-| **D&A Naturais** <br><sub>Operação com muitos documentos</sub> | Plataforma que gera contratos, relatórios, propostas e formulários a partir de modelos e regras de personalização. | Menos inconsistências, menos retrabalho e menos tempo na montagem manual de documentos. |
-| **Busca Terra** <br><sub>Outsourcing de front-end</sub> | Desenvolvimento front-end sob demanda com padrões de interface, responsividade e integração com APIs. | Interfaces modernas e escaláveis, entregues com mais agilidade e consistência visual e técnica. |
-
 ### Produtos
 
-- **🐾 Petscription — Cuidado pet conectado.** Medicamentos, horários e informações do pet organizados para facilitar a rotina de quem cuida. <sub>Mobile e web · Em desenvolvimento</sub> · [Acessar o site →](https://mergenst.com.br/en/petscription)
-- **💌 Qonvite — Gestão de convidados.** Convite personalizado, organização de convidados, RSVP e check-in por QR Code em um mesmo fluxo para eventos privados. <sub>Em desenvolvimento</sub>
+- <img src="assets/petscription-mark.svg" width="16" height="16" alt=""> **Petscription — Cuidado pet conectado.** Medicamentos, horários e informações do pet organizados para facilitar a rotina de quem cuida. <sub>Mobile e web · Em desenvolvimento</sub> · [Acessar o site →](https://mergenst.com.br/en/petscription)
+- <img src="assets/qonvite-mark.svg" width="16" height="16" alt=""> **Qonvite — Gestão de convidados.** Convite personalizado, organização de convidados, RSVP e check-in por QR Code em um mesmo fluxo para eventos privados. <sub>Em desenvolvimento</sub>
 
 ### Vamos conversar
 
